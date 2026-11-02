@@ -1,0 +1,22 @@
+body{
+    height: 3000px;
+}
+
+.navbar{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+p:hover{
+   cursor: pointer;
+}
+
+p{
+    margin-top: 70PX;
+}
+
+h3{
+    margin-top: 60PX;
+}
